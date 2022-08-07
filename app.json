@@ -13,5 +13,5 @@
     }
   ],
   "logo":"https://cdn.jsdelivr.net/gh/mcxiaolan/jsdelivr/WordPress-Logo.png",
-  "stack": "heroku-18"
+  "stack": "heroku-22"
 }
